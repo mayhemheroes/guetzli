@@ -1,0 +1,4 @@
+project: PROJECT
+target: guetzli_fuzzer
+cmds:
+- cmd: /out/guetzli_fuzzer
